@@ -1,0 +1,25 @@
+
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
+
+a:pseudo-class {
+    property: value;
+  }
